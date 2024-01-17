@@ -29,3 +29,9 @@ The following functions are currently implemented:
 * `function1(head)`: returns the first item in an array
 * `function2(tail)`: returns the array without the first element
 * `function3(middle)`: returns middle element if array.length is equal or greater than 3
+
+## Version 
+1.0.0
+
+## Author 
+Mikhail Shemet
